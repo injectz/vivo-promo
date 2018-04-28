@@ -186,6 +186,15 @@ h1 {
     .cost-xs {
         width: 100% !important;
     }
+    .logo {
+    display: block;
+    width: 100%;
+    margin-left: 0;
+    }
+    .logo img {
+        display: block;
+        margin: 0 auto;
+    }
 }
 
 .gradient {
